@@ -23,9 +23,6 @@ a:hover {
  * Header
  */
 
-
-
-
 .nav-masthead .nav-link {
   padding: .25rem 0;
   font-weight: 700;
@@ -64,7 +61,7 @@ a:hover {
     color: #ffffff;
     text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
     font-family: sans-serif;
-    background-image: url("./images/background4.jpg");
+    background-image: url("../images/background4.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: auto;
